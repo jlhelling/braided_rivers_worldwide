@@ -71,7 +71,7 @@ list(
   ),
   # load all discharge measurements in sql-table
   tar_target(
-    load_q_data,
+    q_data_path,
     load_q_all_countries(stations_overview_tbl)
   ),
   # load results from GEE-analysis
@@ -84,7 +84,7 @@ list(
     combined_s2_tbl,
     combine_q_gee_data(station_tbl = stations_overview_tbl, 
                        gee_data_tbl = poi_gee_analysis_2021, 
-                       q_db_path = "data/discharge/q_all.db", 
+                       q_db_path = q_data_path, 
                        scale = 10)
   ),
   # plot Q-W relationships
