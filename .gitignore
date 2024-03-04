@@ -12,3 +12,9 @@ analysis_R/export/
 
 # targets objects
 _targets/
+
+# discharge db
+data/discharge/q_all.db
+
+# logfile
+logfiles/log_load_daily_measurements.log
