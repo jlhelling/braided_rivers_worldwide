@@ -9,3 +9,6 @@
 
 # export files
 analysis_R/export/
+
+# targets objects
+_targets/

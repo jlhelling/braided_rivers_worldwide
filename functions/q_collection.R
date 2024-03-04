@@ -30,7 +30,7 @@ load_q_all_countries <- function(stations_tbl){
   load_q_CHL(stations_tbl = stations_tbl |> filter(country == "CHL"), 
              date_start = "2017-01-01", date_end = "2024-02-29")
   
-  return()
+  return(NULL)
 }
 
 

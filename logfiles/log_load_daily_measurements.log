@@ -1,0 +1,52 @@
+2024-03-04 10:04:20.558697 INFO:log_discharge_download:API request completed for station  V5014010
+2024-03-04 10:04:20.664732 INFO:log_discharge_download:Data written to file:  V5014010
+2024-03-04 10:04:23.687442 INFO:log_discharge_download:API request completed for station  W2022030
+2024-03-04 10:04:23.754438 INFO:log_discharge_download:Data written to file:  W2022030
+2024-03-04 10:04:26.51324 INFO:log_discharge_download:API request completed for station  V4214010
+2024-03-04 10:04:26.541197 INFO:log_discharge_download:Data written to file:  V4214010
+2024-03-04 10:04:27.207601 INFO:log_discharge_download:API request completed for station  X1100003
+2024-03-04 10:04:27.237155 INFO:log_discharge_download:Data written to file:  X1100003
+2024-03-04 10:04:29.681534 INFO:log_discharge_download:API request completed for station  X2305010
+2024-03-04 10:04:29.710305 INFO:log_discharge_download:Data written to file:  X2305010
+2024-03-04 10:04:29.831313 ERROR:log_discharge_download:!!! Error occurred:  In argument: `date = date_obs_elab`.
+2024-03-04 10:04:31.698041 INFO:log_discharge_download:API request completed for station  V6052010
+2024-03-04 10:04:31.729453 INFO:log_discharge_download:Data written to file:  V6052010
+2024-03-04 10:04:34.499367 INFO:log_discharge_download:API request completed for station  V6042010
+2024-03-04 10:04:34.526864 INFO:log_discharge_download:Data written to file:  V6042010
+2024-03-04 10:04:34.620174 ERROR:log_discharge_download:!!! Error occurred:  In argument: `date = date_obs_elab`.
+2024-03-04 10:04:35.162034 INFO:log_discharge_download:API request completed for station  X0710004
+2024-03-04 10:04:35.184664 INFO:log_discharge_download:Data written to file:  X0710004
+2024-03-04 10:04:35.627484 INFO:log_discharge_download:API request completed for station  X1120005
+2024-03-04 10:04:35.65282 INFO:log_discharge_download:Data written to file:  X1120005
+2024-03-04 10:04:36.084377 ERROR:log_discharge_download:!!! Error occurred:  In argument: `date = date_obs_elab`.
+2024-03-04 10:04:36.195004 ERROR:log_discharge_download:!!! Error occurred:  In argument: `date = date_obs_elab`.
+2024-03-04 10:04:37.394411 INFO:log_discharge_download:API request completed for station  X2032010
+2024-03-04 10:04:37.428305 INFO:log_discharge_download:Data written to file:  X2032010
+2024-03-04 10:04:37.713361 INFO:log_discharge_download:API request completed for station  X1420001
+2024-03-04 10:04:37.733137 INFO:log_discharge_download:Data written to file:  X1420001
+2024-03-04 10:04:37.832113 ERROR:log_discharge_download:!!! Error occurred:  In argument: `date = date_obs_elab`.
+2024-03-04 10:04:39.344822 INFO:log_discharge_download:API request completed for station  V4445030
+2024-03-04 10:04:39.370216 INFO:log_discharge_download:Data written to file:  V4445030
+2024-03-04 10:04:40.616853 INFO:log_discharge_download:API request completed for station  V5354010
+2024-03-04 10:04:40.642822 INFO:log_discharge_download:Data written to file:  V5354010
+2024-03-04 10:04:40.763584 INFO:log_discharge_download:API request completed for station  X1250002
+2024-03-04 10:04:40.784786 INFO:log_discharge_download:Data written to file:  X1250002
+2024-03-04 10:04:41.162688 INFO:log_discharge_download:API request completed for station  X1440004
+2024-03-04 10:04:41.19068 INFO:log_discharge_download:Data written to file:  X1440004
+2024-03-04 10:04:41.286886 ERROR:log_discharge_download:!!! Error occurred:  In argument: `date = date_obs_elab`.
+2024-03-04 10:04:43.624077 INFO:log_discharge_download:API request completed for station  V4225010
+2024-03-04 10:04:43.656556 INFO:log_discharge_download:Data written to file:  V4225010
+2024-03-04 10:04:43.752382 ERROR:log_discharge_download:!!! Error occurred:  In argument: `date = date_obs_elab`.
+2024-03-04 10:04:45.853484 INFO:log_discharge_download:API request completed for station  X0434010
+2024-03-04 10:04:45.872379 INFO:log_discharge_download:Data written to file:  X0434010
+2024-03-04 10:04:47.004358 INFO:log_discharge_download:API request completed for station  W1000002
+2024-03-04 10:04:47.030938 INFO:log_discharge_download:Data written to file:  W1000002
+2024-03-04 10:04:48.147011 INFO:log_discharge_download:Data written to file:  68526
+2024-03-04 10:04:49.066004 INFO:log_discharge_download:Data written to file:  23150
+2024-03-04 10:04:49.603522 INFO:log_discharge_download:Data written to file:  86802
+2024-03-04 10:04:50.507888 INFO:log_discharge_download:Data written to file:  90612
+2024-03-04 10:04:54.187699 INFO:log_discharge_download:Data written to file:  7351001
+2024-03-04 10:04:54.28811 INFO:log_discharge_download:Data written to file:  8380006
+2024-03-04 10:04:54.409723 INFO:log_discharge_download:Data written to file:  8380001
+2024-03-04 10:04:54.5463 INFO:log_discharge_download:Data written to file:  5200001
+2024-03-04 10:04:54.668501 INFO:log_discharge_download:Data written to file:  7123001
