@@ -47,17 +47,3 @@ get_b_values <- function(combined_list, morel_tbl){
 }
 
 
-# combined_list <- combined_s2_list
-# combi <- names(combined_list)[1]
-
-# 
-# 
-# data_Eygue_6_V5354010 <- combined_s2_list$Eygue_6_V5354010 |> filter(width_m>0 & q_m3_d>0 & width_m<130)
-# 
-# 
-# 
-# 
-# summary(model)
-# 
-# b <- model$coefficients[[2]]
-

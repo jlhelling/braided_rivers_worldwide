@@ -1,16 +1,4 @@
 ## ----------------------------------------------
-## Script by Leo Helling, created the 03.03.2024
-##
-## Script name: Load Discharge Data for BraidedRivers Analysis
-##
-## Purpose: provides all necessary functions to extract the desired discharge data for specific stations on BR
-##
-## ----------------------------------------------
-
-
-
-
-## ----------------------------------------------
 ## Function: applies all q-data-loading-functions in one batch to create common sql-database
 ##
 ## Output:  NULL, but creates a SQL-db with all daily measurements for each station 
